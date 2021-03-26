@@ -1,7 +1,7 @@
-//Project 1 cmp 168
+
 //Youtube link: https://youtu.be/Hd_oEa1-9qQ
-// in the video I forgot to test for invalid index in menu i and j
-// my method in 932 and 957 for getFacCourseAtIndex() and getStudCourseAtIndex() actually handles invalid index
+// the video shows the funtionality of the school database
+
 
 import java.util.*;
 import java.io.*;
