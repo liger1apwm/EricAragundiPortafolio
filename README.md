@@ -1,5 +1,6 @@
-# EricAragundiPortafolio
-this are some of the projects I have worked so far.
+# Project 1 school DataBase
 
 1st project is the DataBase for a school that consist in creating several objects to store information of people in a school.
+Is posible to use it to add people to de DataBase and then retrieve informations like the professors, the classes, data about
+the students and many other features.
 
